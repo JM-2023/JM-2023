@@ -1,0 +1,5 @@
+- 👋 Hi, I’m JM-2023
+- 👀 I am interested in how to write a program to help solve real-life problems.
+- 🌱 I’m currently learning computer science.
+- 💞️ I am currently looking for an internship to enrich my resume.
+- 📫 
